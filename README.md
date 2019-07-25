@@ -3,7 +3,6 @@ Detecting Lane lines is one of the most fundamental concepts for building a Self
 
 ## Demo
 ![Demo1](Samples/output.gif)
-![Demo2](Samples/raw_to_rendered.png)
 
 ## How to run
 1. Download/Clone the repo.
