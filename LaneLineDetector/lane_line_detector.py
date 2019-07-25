@@ -31,7 +31,7 @@ class LaneLineDetector(AbstractImageProcessor):
             lines: np.ndarray,
             color: list = [255, 0, 0],
             thickness: int = 3) -> np.ndarray:
-        """Redner the detect lines on the original image."""
+        """Render the detect lines on the original image."""
         rendered_image = None
 
         line_img = np.zeros(
